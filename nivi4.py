@@ -5,5 +5,5 @@ ll=[]
 for i in ll1:
   emm=emm*i
 for i in ll1:
-  l.append(emm//i)
+  ll.append(emm//i)
 print(*ll)
